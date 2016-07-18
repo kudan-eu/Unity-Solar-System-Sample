@@ -1,0 +1,17 @@
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/luke/Kudan 1.2 Beta/obj/Debug/Assembly-CSharp.dll
+/Users/luke/Kudan 1.2 Beta/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/UnityEngine.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/UnityEditor.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Mono.Cecil.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Unity.DataContract.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/luke/Kudan 1.2 Beta/Temp/bin/Debug/Mono.Cecil.Mdb.dll
